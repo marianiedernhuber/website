@@ -1,8 +1,8 @@
 theme: starter-academic
 title: Using insights from cognitive neuroscience and technology for patient rehabilitation
-baseurl: ''
+baseurl: 'www.mniedernhuber.page'
 copyright: ''
-enableGitInfo: no
+enableGitInfo: yes
 defaultContentLanguage: en
 hasCJKLanguage: no
 defaultContentLanguageInSubdir: no
