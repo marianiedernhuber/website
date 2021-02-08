@@ -28,7 +28,7 @@ content:
   - name: Neuroscience
     tag: '*'
   - name: Consultancy
-    tag: 
+    tag: '*'
   - name: Other
     tag: Demo
 
