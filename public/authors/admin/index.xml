@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Maria Niedernhuber | Academic</title>
-    <link>/authors/admin/</link>
-      <atom:link href="/authors/admin/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://www.mniedernhuber.page/authors/admin/</link>
+      <atom:link href="https://www.mniedernhuber.page/authors/admin/index.xml" rel="self" type="application/rss+xml" />
     <description>Maria Niedernhuber</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-uk</language><lastBuildDate>Sun, 01 Sep 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-uk</language>
     <image>
-      <url>/authors/admin/avatar_hua3a4012ea844bc274e857ae71af74dec_36160_270x270_fill_q75_lanczos_center.jpg</url>
+      <url>https://www.mniedernhuber.page/authors/admin/avatar_hua3a4012ea844bc274e857ae71af74dec_36160_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Maria Niedernhuber</title>
-      <link>/authors/admin/</link>
+      <link>https://www.mniedernhuber.page/authors/admin/</link>
     </image>
     
     <item>
       <title>Prostheses as extensions of the body - Progress and challenges</title>
-      <link>/publication/journal-article/</link>
+      <link>https://www.mniedernhuber.page/publication/journal-article/</link>
       <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/journal-article/</guid>
+      <guid>https://www.mniedernhuber.page/publication/journal-article/</guid>
       <description></description>
     </item>
     
